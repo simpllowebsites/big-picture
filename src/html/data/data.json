@@ -3,10 +3,12 @@
     "email"   : "support@simpllo.com",
 
     "links" : {
+        "current"   : "https://simpllo.com/free-website-big-picture.html",
+        "github"    : "https://github.com/simpllowebsites/big-picture.git",
         "facebook"  : "https://facebook.com/Simpllowebsites",
         "twitter"   : "https://twitter.com/simpllowebsites",
-        "github"    : "https://github.com/simpllowebsites/simpllo.com",
         "appseed"   : "https://appseed.us?ref=simpllo",
+        "simpllo"   : "https://simpllo.com?ref=big-picture",
         "instagram" : "https://instagram.com/simpllowebsites"
     }, 
 

@@ -11,4 +11,4 @@ Designed by HTML5 Up, provided by [Simpllo.com](https://simplo.com)
 - `yarn deploy` - build & LIVE deploy `Info: edit FTP credentials in deploy.js `
 
 ---
-Made with ♥ by [AppSeed.us](https://appseed.us?ref=github-simpllo)
+Made with ♥ by [Simpllo.com](https://simpllo.com?ref=github)
